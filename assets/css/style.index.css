@@ -23,6 +23,7 @@ body {
 }
 
 .section_promoçãoprincipal {
+    margin: auto;
     padding: 10px;
     background-color: rgb(174, 137, 111);
     width: 50%;
@@ -34,4 +35,9 @@ body {
 
 #div_promoçãoprincipal {
     display: flex;
+}
+
+#title_promoçãoprincipal {
+    text-align: left;
+    padding-left: 10px;
 }
