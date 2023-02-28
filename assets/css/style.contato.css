@@ -13,6 +13,10 @@ form{
     margin-bottom: 20px;
 }
 
+#botão {
+    background-color: rgb(174, 137,111);
+}
+
 head {
     background-color: rgb(174, 137,111);
 }
@@ -23,7 +27,7 @@ body {
 
 h1{
     font-family: 'Times New Roman', Times, serif;
-    font: size 150px;;
+    font: size 3000px;;
     text-align: center;
     margin-top: 100px;
 }
