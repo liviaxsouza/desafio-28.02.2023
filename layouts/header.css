@@ -11,6 +11,7 @@ header {
  .anav_1 {
     text-decoration: none;
     color: black;
+    background-color: aqua;
  }
 
  .anav_2 {
@@ -21,10 +22,26 @@ header {
  .anav_3 {
     text-decoration: none;
     color: black;
+    
+    
 
  }
  nav ul {
     list-style: none;
-
+    margin: 0%;
+    padding: 0;
+    display: flex;
+    
  }
+ nav li{
+    margin-right: 30px;
+    
+   
+ }
+  nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+
 
