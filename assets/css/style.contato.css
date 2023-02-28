@@ -4,7 +4,7 @@ form{
     width: 30%;
     margin:auto;
     font-family: 'Times New Roman', Times, serif;
-    margin-top: 140px;
+    margin-top: 80px;
     border-radius: 30px;
 
 }
@@ -14,11 +14,11 @@ form{
 }
 
 #botão {
-    background-color: rgb(174, 137,111);
+    background-color: rgb(174,137,111);
 }
 
 head {
-    background-color: rgb(174, 137,111);
+    background-color: rgb(95,65,44);
 }
 
 body {
@@ -27,7 +27,7 @@ body {
 
 h1{
     font-family: 'Times New Roman', Times, serif;
-    font: size 3000px;;
+    font size: 350px;
     text-align: center;
     margin-top: 100px;
 }
