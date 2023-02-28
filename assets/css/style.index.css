@@ -10,6 +10,7 @@ p {
 
 body {
     background-color: rgb(95, 65, 44);
+    margin: 0;
 }
 
 #imghamburgueria {
@@ -64,4 +65,8 @@ body {
 
 #title_cardapio {
     font-size: 30px;
+}
+
+#footer {
+    width: 100%;
 }
