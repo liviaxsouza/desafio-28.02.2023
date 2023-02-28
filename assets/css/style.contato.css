@@ -4,11 +4,13 @@ form{
     width: 30%;
     margin:auto;
     font-family: 'Times New Roman', Times, serif;
-    margin-top: 200px;
+    margin-top: 140px;
+    border-radius: 30px;
+
 }
 
-#input {
-    border-radius: 10px;
+* input {
+    margin-bottom: 20px;
 }
 
 head {
@@ -17,4 +19,11 @@ head {
 
 body {
     background-color: rgb(174, 137,111);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font: size 150px;;
+    text-align: center;
+    margin-top: 100px;
 }
