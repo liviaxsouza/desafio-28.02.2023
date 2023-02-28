@@ -11,3 +11,16 @@ p {
 body {
     background-color: rgb(95, 65, 44);
 }
+
+#imghamburgueria {
+    margin-top: 20px;
+    width: 60%;
+}
+
+#section_imghamburgueria {
+    text-align: center;
+}
+
+.section_promoçãoprincipal {
+    background-color: rgb(174, 137, 111);
+}
