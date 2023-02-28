@@ -10,11 +10,13 @@ p {
 
 body {
     background-color: rgb(95, 65, 44);
+    margin: 0;
 }
 
 #imghamburgueria {
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
 }
 
 #section_imghamburgueria {
@@ -22,6 +24,7 @@ body {
 }
 
 .section_promoçãoprincipal {
+    background-color: rgb(174, 137, 111);
     margin: auto;
     margin-top: 20px;
     padding: 10px;
@@ -41,9 +44,33 @@ body {
 }
 
 .section_cardapio {
-    
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    background-color: rgb(174, 137, 111);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+
 }
 
 .div_cardapio {
     display: flex;
+}
+
+.text_cardapio {
+    text-align: justify;
+}
+
+#title_cardapio {
+    font-size: 30px;
+}
+
+#footer {
+    width: 100%;
+}
+
+#header {
+    width: 100%;
 }
