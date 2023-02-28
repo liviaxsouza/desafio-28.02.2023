@@ -3,6 +3,10 @@ h2 {
     font-family: 'calibri';
 }
 
+p {
+    width: 100;
+}
+
 body {
     background-color: rgb(95, 65, 44);
 }
@@ -15,33 +19,18 @@ body {
 
 .div_black {
     background-color: rgb(174, 137, 111);
-    color: rgb(0, 0, 0);
     padding: 0px;
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 10px;
     text-align: center;
     justify-content: center;
+    text-decoration: none;
 }
 
-.div_black1 {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    width: 33%;
-    padding: 0px;
-    margin-left: 10px;
-    margin-right: 10px;
-    border-radius: 10px;
-}
-
-.div_black2 {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    width: 33%;
-    padding: 0px;
-    border-radius: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
+a {
+    text-decoration: none;
+    color: black;
 }
 
 .div_white {
@@ -51,4 +40,8 @@ body {
     padding: 0px;
     margin: auto;
     border-radius: 10px;
+}
+
+#footer {
+    width: 100%;
 }
