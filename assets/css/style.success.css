@@ -4,11 +4,13 @@ img{
 
 #section_img{
     text-align: center;
+    margin-top: 135px;
 }
 
 h2{
     text-align: center;
     color: darkgoldenrod;
+
 }
 
 body{
@@ -20,7 +22,7 @@ form{
 }
 
 button{
-    color: goldenrod;
+    color: rgb(0, 0, 0);
 }
 
 #botão_1{
