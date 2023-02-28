@@ -1,3 +1,13 @@
 h1 {
     text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: rgb(95, 65, 44);
 }
