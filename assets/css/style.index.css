@@ -43,5 +43,9 @@ body {
 }
 
 .section_cardapio {
+    
+}
+
+.div_cardapio {
     display: flex;
 }
