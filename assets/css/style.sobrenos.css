@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    font-family: 'calibri';
+}
+
+body {
+    background-color: rgb(183, 137, 105);
+}
+
+#section_1 {
+    display: flex;
+}
+
+.div_black {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 33%;
+    padding: 0px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.div_black1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 33%;
+    padding: 0px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.div_black2 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 33%;
+    padding: 0px;
+    margin: auto;
+    border-radius: 10px;
+}
+

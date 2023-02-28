@@ -1,0 +1,29 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin:auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 140px;
+    border-radius: 30px;
+
+}
+
+* input {
+    margin-bottom: 20px;
+}
+
+head {
+    background-color: rgb(174, 137,111);
+}
+
+body {
+    background-color: rgb(174, 137,111);
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font: size 150px;;
+    text-align: center;
+    margin-top: 100px;
+}
