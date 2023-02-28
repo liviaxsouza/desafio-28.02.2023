@@ -1,0 +1,10 @@
+header {
+    background-color: white;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+ #section_1 {
+    text-align: center;
+ }
