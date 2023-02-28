@@ -8,8 +8,17 @@ img{
 
 h2{
     text-align: center;
+    color: darkgoldenrod;
 }
 
 body{
     background-color: rgb(95,65,44);
+}
+
+form{
+    text-align: center;
+}
+
+button{
+    color: goldenrod;
 }
