@@ -1,37 +1,30 @@
 header {
-    background-color: #A89B8C;
+    background-color: white;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+ #section_1 {
     text-align: center;
-}
-
-body {
-    margin: 0;
-    padding: 0;
-}
-
-.anav {
-    color: black;
+ }
+ .anav_1 {
     text-decoration: none;
-}
+    color: black;
+ }
 
-ul, li {
-    list-style-type: none;
-    display: flex;
-    padding: 0;
-}
+ .anav_2 {
+    text-decoration: none;
+    color: black;
+ }
 
-nav {
-    display: flex;
-    justify-content: center;
-}
+ .anav_3 {
+    text-decoration: none;
+    color: black;
 
-li {
-    margin-left: 10px;
-}
+ }
+ nav ul {
+    list-style: none;
 
-#li_1 {
-    margin-left: 0;
-}
+ }
 
-a:hover {
-    background-color: #ffffff;
-}
