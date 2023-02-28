@@ -1,8 +1,13 @@
 h1 {
     text-align: center;
-    color: rgb(95, 65, 44);
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
 }
 
 body {
-    background-color: white;
+    background-color: rgb(95, 65, 44);
 }
