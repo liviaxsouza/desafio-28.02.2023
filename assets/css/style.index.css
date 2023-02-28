@@ -14,7 +14,8 @@ body {
 
 #imghamburgueria {
     margin-top: 20px;
-    width: 60%;
+    margin-bottom: 20px;
+    width: 70%;
 }
 
 #section_imghamburgueria {
@@ -23,4 +24,5 @@ body {
 
 .section_promoçãoprincipal {
     background-color: rgb(174, 137, 111);
+    width: 40%;
 }
