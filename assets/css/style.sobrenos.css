@@ -16,7 +16,7 @@ body {
     color: rgb(0, 0, 0);
     width: 33%;
     padding: 0px;
-    margin: auto;
+    margin: 8px;
     border-radius: 10px;
 }
 
@@ -25,7 +25,7 @@ body {
     color: rgb(0, 0, 0);
     width: 33%;
     padding: 0px;
-    margin: auto;
+    margin: 8px;
     border-radius: 10px;
 }
 
@@ -34,7 +34,21 @@ body {
     color: rgb(0, 0, 0);
     width: 33%;
     padding: 0px;
+    margin: 8px;
+    border-radius: 10px;
+}
+
+.div_white {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 100%;
+    padding: 0px;
     margin: auto;
     border-radius: 10px;
 }
 
+#div_img {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+}
