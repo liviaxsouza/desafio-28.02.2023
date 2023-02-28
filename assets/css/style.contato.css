@@ -1,0 +1,20 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin:auto;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 200px;
+}
+
+#input {
+    border-radius: 10px;
+}
+
+head {
+    background-color: rgb(174, 137,111);
+}
+
+body {
+    background-color: rgb(174, 137,111);
+}
