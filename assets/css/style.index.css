@@ -23,6 +23,15 @@ body {
 }
 
 .section_promoçãoprincipal {
+    padding: 10px;
     background-color: rgb(174, 137, 111);
-    width: 40%;
+    width: 50%;
+}
+
+#imgpromoçãoprincipal {
+    width:30%;
+}
+
+#div_promoçãoprincipal {
+    display: flex;
 }
