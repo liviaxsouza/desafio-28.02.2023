@@ -1,0 +1,30 @@
+header {
+    background-color: white;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+ #section_1 {
+    text-align: center;
+ }
+ .anav_1 {
+    text-decoration: none;
+    color: black;
+ }
+
+ .anav_2 {
+    text-decoration: none;
+    color: black;
+ }
+
+ .anav_3 {
+    text-decoration: none;
+    color: black;
+
+ }
+ nav ul {
+    list-style: none;
+
+ }
+
