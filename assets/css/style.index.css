@@ -15,7 +15,6 @@ body {
 #imghamburgueria {
     margin-top: 20px;
     margin-bottom: 20px;
-    width: 70%;
 }
 
 #section_imghamburgueria {
@@ -24,13 +23,12 @@ body {
 
 .section_promoçãoprincipal {
     margin: auto;
+    margin-top: 20px;
     padding: 10px;
     background-color: rgb(174, 137, 111);
     width: 50%;
-}
-
-#imgpromoçãoprincipal {
-    width:30%;
+    border-radius: 10px;
+    box-shadow: 10px;
 }
 
 #div_promoçãoprincipal {
