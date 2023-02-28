@@ -24,6 +24,8 @@ head {
 
 body {
     background-color: rgb(95,65,44);
+    margin: 0;
+    padding: 0;
 }
 
 h1{
@@ -33,4 +35,10 @@ h1{
     text-align: center;
     margin-top: 100px;
     
+}
+
+#footer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }

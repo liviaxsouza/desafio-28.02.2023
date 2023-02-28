@@ -3,10 +3,6 @@ h2 {
     font-family: 'calibri';
 }
 
-p {
-    width: 100;
-}
-
 body {
     background-color: rgb(95, 65, 44);
 }
@@ -18,7 +14,7 @@ body {
 }
 
 .div_black {
-    background-color: rgb(174, 137, 111);
+    background-color: rgb(255, 255, 255);
     padding: 0px;
     margin-left: 10px;
     margin-right: 10px;
@@ -34,7 +30,7 @@ a {
 }
 
 .div_white {
-    background-color: rgb(174, 137, 111);
+    background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     width: 100%;
     padding: 0px;
@@ -43,5 +39,11 @@ a {
 }
 
 #footer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
     width: 100%;
 }
