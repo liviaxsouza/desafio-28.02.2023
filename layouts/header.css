@@ -4,6 +4,8 @@ header {
     height: 100%;
     width: 100%;
     position: fixed;
+    margin: 0;
+    padding-bottom: 15px;
 }
  #section_1 {
     text-align: center;

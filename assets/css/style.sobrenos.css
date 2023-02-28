@@ -3,43 +3,38 @@ h2 {
     font-family: 'calibri';
 }
 
+p {
+    width: 100;
+}
+
 body {
-    background-color: rgb(183, 137, 105);
+    background-color: rgb(95, 65, 44);
 }
 
 #section_1 {
     display: flex;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 .div_black {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    width: 33%;
+    background-color: rgb(174, 137, 111);
     padding: 0px;
-    margin: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
     border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
 }
 
-.div_black1 {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    width: 33%;
-    padding: 0px;
-    margin: 8px;
-    border-radius: 10px;
-}
-
-.div_black2 {
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
-    width: 33%;
-    padding: 0px;
-    margin: 8px;
-    border-radius: 10px;
+a {
+    text-decoration: none;
+    color: black;
 }
 
 .div_white {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(174, 137, 111);
     color: rgb(0, 0, 0);
     width: 100%;
     padding: 0px;
@@ -47,8 +42,6 @@ body {
     border-radius: 10px;
 }
 
-#div_img {
-    display: flex;
-    background-color: rgb(255, 255, 255);
-    margin: 10px;
+#footer {
+    width: 100%;
 }
