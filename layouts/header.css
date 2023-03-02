@@ -9,7 +9,25 @@ header {
 }
  #section_1 {
     text-align: center;
+    
+    
  }
+ #div_1 {
+   animation-name: spin;
+   animation-duration: 1s;
+   animation-iteration-count:initial;
+   animation-timing-function: linear;
+ }
+ @keyframes spin {
+   from { 
+     transform: rotate(0deg);
+
+   }
+   to{
+      transform: rotate(360deg);
+   }
+ }
+ 
  .anav_1 {
     text-decoration: none;
     color: black;
