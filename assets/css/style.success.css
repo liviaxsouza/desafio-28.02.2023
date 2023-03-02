@@ -4,18 +4,20 @@ img{
 
 #section_img{
     text-align: center;
-    margin-top: 135px;
+    margin-top: 115px;
 }
 
 h1{
     text-align: center;
     color: darkgoldenrod;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 0%;
 
 }
 
 body{
     background-color: rgb(95,65,44);
+    margin: 0;
 }
 
 form{
@@ -35,6 +37,7 @@ button{
     width: 100%;
     margin: 0;
     padding: 0;
+    margin-bottom: -5px;
 }
 
 #header{
