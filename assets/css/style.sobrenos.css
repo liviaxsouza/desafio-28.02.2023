@@ -22,8 +22,8 @@ body {
     text-align: center;
     justify-content: center;
     text-decoration: none;
-    -webkit-box-shadow: 2px 0px 7px 4px #FFFFFF; 
-    box-shadow: 2px 0px 7px 4px #FFFFFF;
+    -webkit-box-shadow: -3px 4px 3px 6px #402b1a; 
+box-shadow: -3px 4px 3px 6px #3b2a1f;
 }
 
 a {
