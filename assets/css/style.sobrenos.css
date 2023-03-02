@@ -1,12 +1,21 @@
 h2 {
     text-align: center;
     font-family: 'Times New Roman';
+    color: rgb(255, 255, 255);
 }
 
 h3 {
     text-align:center;
     font-family: 'Times New Roman';
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.p_1{
+    color: white;
+}
+
+p {
+    color: white;
 }
 
 h5 {
@@ -29,7 +38,7 @@ body {
 }
 
 .div_black {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(174, 134, 111);
     padding: 0px;
     margin-left: 10px;
     margin-right: 10px;
@@ -37,8 +46,8 @@ body {
     text-align: center;
     justify-content: center;
     text-decoration: none;
-    -webkit-box-shadow: 0px -10px 1px 0px #000000; 
-box-shadow: 0px -10px 1px 0px #000000;
+    -webkit-box-shadow: 0px -10px 1px 0px #ffffff; 
+box-shadow: 0px -10px 1px 0px #ffffff;
 }
 
 
@@ -52,14 +61,14 @@ a {
 }
 
 .div_white {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(174, 134, 111);
     color: rgb(0, 0, 0);
     width: 100%;
     padding: 0px;
     margin: auto;
     border-radius: 10px;
-    -webkit-box-shadow: -10px 0px 1px 0px #000000; 
-box-shadow: -10px 0px 1px 0px #000000;
+    -webkit-box-shadow: -10px 0px 1px 0px #ffffff; 
+box-shadow: -10px 0px 1px 0px #ffffff;
 }
 
 #footer {
