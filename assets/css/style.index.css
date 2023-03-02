@@ -32,8 +32,9 @@ body {
     background-color: rgb(174, 137, 111);
     width: 90%;
     height: 90%;
-    border-radius: 10px;
-    box-shadow: 10px;
+    box-shadow: 11px 12px 7px -4px rgba(255,255,255,1);
+-webkit-box-shadow: 11px 12px 7px -4px rgba(255,255,255,1);
+-moz-box-shadow: 11px 12px 7px -4px rgba(255,255,255,1);
 }
 
 #div_promoçãoprincipal {
@@ -53,8 +54,10 @@ body {
     margin-top: 30px;
     margin-bottom: 5px;
     padding: 10px;
-    border-radius: 10px;
     padding-bottom: 5px;
+    box-shadow: 11px 12px 7px -4px rgba(255,255,255,1);
+-webkit-box-shadow: 11px 12px 7px -4px rgba(255,255,255,1);
+-moz-box-shadow: 11px 12px 7px -4px rgba(255,255,255,1);
 
 }
 
