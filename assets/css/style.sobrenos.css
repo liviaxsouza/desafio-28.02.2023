@@ -9,6 +9,13 @@ h3 {
     color: rgb(0, 0, 0);
 }
 
+h5 {
+    text-align:center;
+    font-family: 'Times New Roman';
+    color: rgb(255, 255, 255);
+    font-size:x-large;
+}
+
 body {
     background-color: rgb(95, 65, 44);
     margin: 0;
@@ -30,14 +37,18 @@ body {
     text-align: center;
     justify-content: center;
     text-decoration: none;
-    -webkit-box-shadow: -3px 4px 3px 6px #402b1a; 
-box-shadow: -3px 4px 3px 6px #3b2a1f;
+    -webkit-box-shadow: 0px -10px 1px 0px #000000; 
+box-shadow: 0px -10px 1px 0px #000000;
 }
 
 
 a {
     text-decoration: none;
     color: black;
+}
+
+#img_1 {
+    text-align: center;
 }
 
 .div_white {
@@ -47,6 +58,8 @@ a {
     padding: 0px;
     margin: auto;
     border-radius: 10px;
+    -webkit-box-shadow: -10px 0px 1px 0px #000000; 
+box-shadow: -10px 0px 1px 0px #000000;
 }
 
 #footer {
