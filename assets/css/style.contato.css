@@ -51,7 +51,10 @@ h1{
     
 }   
 
-
+textarea {
+    margin-bottom: 20px;
+    resize: none;
+}
 
 
 
