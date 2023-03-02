@@ -50,12 +50,12 @@ header {
  }
  nav li{
     margin-right: 30px;
-    
-   
+    margin-left: 30px;
  }
   nav {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
   }
   .anav_1:hover {
     background-color: rgb(174, 137, 111);
@@ -67,5 +67,15 @@ header {
     background-color: rgb(174, 137, 111);
   }
   
+  body{
+   margin: 0;
+   padding: 0;
+  }
+
+  img{
+   margin-top: 5px;
+  }
+
+
 
 
