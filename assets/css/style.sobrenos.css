@@ -5,28 +5,28 @@ h2 {
 }
 
 h3 {
-    text-align:center;
+    text-align: center;
     font-family: 'Times New Roman';
-    color: rgb(255, 255, 255);
+    padding-top: 50px;
 }
 
-.p_1{
+.p_1 {
     color: white;
     justify-content: center;
-    text-align:center;
+    text-align: center;
 }
 
 p {
     color: white;
     justify-content: center;
-    text-align:center;
+    text-align: center;
 }
 
 h5 {
-    text-align:center;
+    text-align: center;
     font-family: 'Times New Roman';
     color: rgb(255, 255, 255);
-    font-size:x-large;
+    font-size: x-large;
 }
 
 body {
@@ -41,17 +41,21 @@ body {
     margin-bottom: 20px;
 }
 
+#section_3 {
+    background-color: #ffffff;
+    margin-top: 300px;
+}
+
 .div_black {
     background-color: rgb(174, 134, 111);
     padding: 0px;
-    margin-left: 10px;
     margin-right: 10px;
     border-radius: 10px;
     text-align: center;
     justify-content: center;
     text-decoration: none;
-    -webkit-box-shadow: 0px -10px 1px 0px #ffffff; 
-box-shadow: 0px -10px 1px 0px #ffffff;
+    -webkit-box-shadow: 0px -8px 1px 0px rgb(184, 154, 136);
+    box-shadow: 0px -8px 1px 0px rgb(184, 154, 136);
 }
 
 
@@ -68,13 +72,13 @@ a {
     background-color: rgb(174, 134, 111);
     color: rgb(0, 0, 0);
     width: 90%;
-    height: 90%;
     padding: 10px;
     margin: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
     border-radius: 10px;
-    -webkit-box-shadow: -10px 0px 1px 0px #ffffff; 
-box-shadow: -10px 0px 1px 0px #ffffff;
+    -webkit-box-shadow: -7px 0px 1px 0px rgb(184, 154, 136);
+    box-shadow: -7px 0px 1px 0px rgb(184, 154, 136);
 }
 
 #footer {
@@ -88,4 +92,13 @@ box-shadow: -10px 0px 1px 0px #ffffff;
     width: 100%;
     margin: 0;
     padding: 0;
+}
+
+#team {
+    margin-top: 0px;
+    background-color: #ffffff;
+    padding-left: 50px;
+    padding-right: 45px;
+    border-radius: 10px;
+
 }
