@@ -12,10 +12,14 @@ h3 {
 
 .p_1{
     color: white;
+    justify-content: center;
+    text-align:center;
 }
 
 p {
     color: white;
+    justify-content: center;
+    text-align:center;
 }
 
 h5 {
