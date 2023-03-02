@@ -8,6 +8,8 @@ h3 {
     text-align: center;
     font-family: 'Times New Roman';
     padding-top: 50px;
+    color: rgb(56, 45, 39);
+    font-size:x-large;
 }
 
 .p_1 {
@@ -95,7 +97,7 @@ a {
 }
 
 #team {
-    margin-top: 0px;
+    margin-top: 10px;
     background-color: #efcebf;
     padding-left: 50px;
     padding-right: 45px;
