@@ -6,7 +6,6 @@ header {
     margin: 0 ;
     padding-top: 5px;
     padding-bottom: 15px;
-
 }
 
  #section_1 {
@@ -14,12 +13,14 @@ header {
     
     
  }
+
  #div_1 {
    animation-name: spin;
    animation-duration: 1s;
    animation-iteration-count:initial;
    animation-timing-function: linear;
  }
+
  @keyframes spin {
    from { 
      transform: rotate(0deg);
@@ -29,6 +30,8 @@ header {
       transform: rotate(360deg);
    }
  }
+
+
  
  .anav_1 {
     text-decoration: none;
