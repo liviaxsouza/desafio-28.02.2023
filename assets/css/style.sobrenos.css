@@ -112,3 +112,35 @@ box-shadow: 7px -4px 13px 5px rgba(0,0,0,0.49);
 box-shadow: 7px -4px 13px 5px rgba(0,0,0,0.49);
 
 }
+
+.div_white:hover {
+    background-color: rgb(174, 134, 111);
+    color: rgb(0, 0, 0);
+    width: 90%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow: -7px 0px 1px 0px rgb(184, 154, 136);
+    box-shadow: -7px 0px 1px 0px rgb(184, 154, 136);
+    -webkit-box-shadow: 7px -4px 13px 5px rgba(0,0,0,0.49); 
+box-shadow: 7px -4px 13px 5px rgba(0,0,0,0.49);
+    transition: 2s;
+}
+
+.div_black:hover {
+    background-color: rgb(174, 134, 111);
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    text-decoration: none;
+    border-top: 5px solid #efcebf;
+    width: 33%;
+    -webkit-box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37); 
+    box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37);
+    transition: 2s;
+}
