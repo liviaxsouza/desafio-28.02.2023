@@ -33,9 +33,7 @@ body {
     width: 90%;
     height: 90%;
     border-radius: 10px;
-    box-shadow: -11px 0px 0px 0px rgba(194, 160, 140, 0.97);
--webkit-box-shadow: -11px 0px 0px 0px rgba(194, 160, 140, 0.97);
--moz-box-shadow: -11px 0px 0px 0px rgba(194, 160, 140, 0.97);
+    border-left: 5px solid rgba(194, 160, 140, 0.97);
 }
 
 #div_promoçãoprincipal {
@@ -57,9 +55,7 @@ body {
     padding: 10px;
     padding-bottom: 5px;
     border-radius: 10px;
-    box-shadow: -11px 0px 0px 0px rgba(194, 160, 140, 0.97);
--webkit-box-shadow: -11px 0px 0px 0px rgba(194, 160, 140, 0.97);
--moz-box-shadow: -11px 0px 0px 0px rgba(194, 160, 140, 0.97);
+    border-left: 5px solid rgba(194, 160, 140, 0.97);
 }
 
 .div_cardapio {
