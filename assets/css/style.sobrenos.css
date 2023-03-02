@@ -1,6 +1,12 @@
 h2 {
     text-align: center;
-    font-family: 'calibri';
+    font-family: 'Times New Roman';
+}
+
+h3 {
+    text-align:center;
+    font-family: 'Times New Roman';
+    color: rgb(0, 0, 0);
 }
 
 body {
@@ -26,6 +32,7 @@ body {
 box-shadow: -3px 4px 3px 6px #3b2a1f;
 }
 
+
 a {
     text-decoration: none;
     color: black;
@@ -48,4 +55,6 @@ a {
 
 #header {
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
