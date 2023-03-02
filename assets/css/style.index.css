@@ -10,6 +10,8 @@ p {
 
 body {
     background-color: rgb(95, 65, 44);
+    margin: 0;
+    padding: 0;
 }
 
 #imghamburgueria {
@@ -71,10 +73,7 @@ body {
 }
 
 #header {
-    width: 100%;
-}
-
-iframe{
     margin: 0;
     padding: 0;
+    width: 100%;
 }
