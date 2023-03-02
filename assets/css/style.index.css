@@ -34,6 +34,8 @@ body {
     height: 90%;
     border-radius: 10px;
     border-left: 5px solid rgba(194, 160, 140, 0.97);
+    -webkit-box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37); 
+    box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37);
 }
 
 #div_promoçãoprincipal {
@@ -56,6 +58,8 @@ body {
     padding-bottom: 5px;
     border-radius: 10px;
     border-left: 5px solid rgba(194, 160, 140, 0.97);
+    -webkit-box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37); 
+    box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37);
 }
 
 .div_cardapio {
@@ -90,4 +94,20 @@ body {
 #text_promoçãoprincipal {
     text-align: justify;
     padding-left: 0;
+}
+
+.section_cardapio:hover {
+    text-align: center;
+    width: 25%;
+    margin: auto;
+    background-color: rgb(174, 137, 111);
+    margin-top: 30px;
+    margin-bottom: 5px;
+    padding: 20px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border-left: 5px solid rgba(194, 160, 140, 0.97);
+    -webkit-box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37); 
+    box-shadow: 8px 6px 12px 5px rgba(0,0,0,0.37);
+    transition: 2s;
 }

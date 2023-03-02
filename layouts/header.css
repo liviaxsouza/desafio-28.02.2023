@@ -81,12 +81,15 @@ header {
   }
   .anav_1:hover {
     background-color: rgb(174, 137, 111);
+    transition: 1s;
   }
   .anav_2:hover {
     background-color: rgb(174, 137, 111);
+    transition: 1s
   }
   .anav_3:hover {
     background-color: rgb(174, 137, 111);
+    transition: 1s
   }
   
   body{
