@@ -82,6 +82,8 @@ a {
     border-radius: 10px;
     -webkit-box-shadow: -7px 0px 1px 0px rgb(184, 154, 136);
     box-shadow: -7px 0px 1px 0px rgb(184, 154, 136);
+    -webkit-box-shadow: 7px -4px 13px 5px rgba(0,0,0,0.49); 
+box-shadow: 7px -4px 13px 5px rgba(0,0,0,0.49);
 }
 
 #footer {
