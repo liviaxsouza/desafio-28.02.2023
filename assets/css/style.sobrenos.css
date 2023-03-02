@@ -5,6 +5,8 @@ h2 {
 
 body {
     background-color: rgb(95, 65, 44);
+    margin: 0;
+    padding: 0;
 }
 
 #section_1 {
