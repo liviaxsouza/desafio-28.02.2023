@@ -30,7 +30,8 @@ body {
     margin-top: 20px;
     padding: 10px;
     background-color: rgb(174, 137, 111);
-    width: 50%;
+    width: 90%;
+    height: 90%;
     border-radius: 10px;
     box-shadow: 10px;
 }
@@ -46,13 +47,14 @@ body {
 
 .section_cardapio {
     text-align: center;
-    width: 30%;
+    width: 25%;
     margin: auto;
     background-color: rgb(174, 137, 111);
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 5px;
     padding: 10px;
     border-radius: 10px;
+    padding-bottom: 5px;
 
 }
 
@@ -77,4 +79,14 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
+}
+
+.text_combo {
+    text-align: left;
+    margin-top: 2px;
+    font-size: 20px;
+}
+
+#text_promoçãoprincipal {
+    text-align: justify;
 }
