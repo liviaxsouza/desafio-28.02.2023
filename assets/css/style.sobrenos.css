@@ -96,9 +96,11 @@ a {
 
 #team {
     margin-top: 0px;
-    background-color: #ffffff;
+    background-color: #efcebf;
     padding-left: 50px;
     padding-right: 45px;
     border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
 }
