@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(12, 0, 118), rgb(0, 17, 255) );
+    margin-bottom: 167px;
+    color: aliceblue;
+}
+
+form {
+    text-align: center;
+    width: 30%;
+    margin: auto;
+}
+
+/* Inicio das estilização do formulario*/
+.form1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2px;
+}
+
+.form2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2px;
+}
+/* Final das estilização do formulario*/
